@@ -38,7 +38,7 @@ There is no license for this project.
 
 ## Screenshot of Terminal and Generated README
 
-![RenderedSVG](SVG.png)
+![RenderedSVG](./assets/SVG.png)
 
 ## Tests
 
